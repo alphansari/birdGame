@@ -43,5 +43,5 @@ The game ends when you hit a pipe or the ground.
 ---
 
 ## Author
-**Your Name**  
+**Mehmet Alphan Sarı**  
 [GitHub Profile](https://github.com/alphansari)
