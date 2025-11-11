@@ -1,0 +1,57 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.suo
+*.tmp
+*.userprefs
+
+# Crash and temporary files
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Auto-generated VS/JetBrains settings
+ExportedObj/
+obj/
+.gradle/
+.vscode/
+
+# Builds
+*.apk
+*.aab
+*.app
+*.exe
+*.xcodeproj/
+*.xcworkspace/
+*.ipa
+
+# Cache
+[Aa]sset[Ss]toreTools/
+[Aa]sset[Ss]tore/
+[Pp]ackages/com.unity.package-manager-do-not-delete
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Ignore compiled meta files of ignored files
+*.meta
+!/Assets/**/*.meta
